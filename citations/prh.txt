@@ -1,0 +1,6 @@
+@article{huh2024platonic,
+  title={The platonic representation hypothesis},
+  author={Huh, Minyoung and Cheung, Brian and Wang, Tongzhou and Isola, Phillip},
+  journal={arXiv preprint arXiv:2405.07987},
+  year={2024}
+}

@@ -1,0 +1,6 @@
+@article{schnaus2025s,
+  title={It's a (Blind) Match! Towards Vision-Language Correspondence without Parallel Data},
+  author={Schnaus, Dominik and Araslanov, Nikita and Cremers, Daniel},
+  journal={arXiv preprint arXiv:2503.24129},
+  year={2025}
+}

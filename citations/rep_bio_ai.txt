@@ -1,0 +1,6 @@
+@article{hosseini2024universality,
+  title={Universality of representation in biological and artificial neural networks},
+  author={Hosseini, Eghbal and Casto, Colton and Zaslavsky, Noga and Conwell, Colin and Richardson, Mark and Fedorenko, Evelina},
+  journal={bioRxiv},
+  year={2024}
+}

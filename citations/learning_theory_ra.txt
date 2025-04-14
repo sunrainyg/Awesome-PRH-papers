@@ -1,0 +1,5 @@
+@inproceedings{insullatowards,
+  title={Towards a learning theory of representation alignment},
+  author={Insulla, Francesco and Huang, Shuo and Rosasco, Lorenzo},
+  booktitle={The Thirteenth International Conference on Learning Representations}
+}

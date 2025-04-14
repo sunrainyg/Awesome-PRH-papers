@@ -1,0 +1,6 @@
+@article{shu2025large,
+  title={Large vision-language model alignment and misalignment: A survey through the lens of explainability},
+  author={Shu, Dong and Zhao, Haiyan and Hu, Jingyu and Liu, Weiru and Payani, Ali and Cheng, Lu and Du, Mengnan},
+  journal={arXiv preprint arXiv:2501.01346},
+  year={2025}
+}

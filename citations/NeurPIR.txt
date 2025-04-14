@@ -1,0 +1,6 @@
+@article{wu2025neuron,
+  title={Neuron Platonic Intrinsic Representation From Dynamics Using Contrastive Learning},
+  author={Wu, Wei and Liao, Can and Deng, Zizhen and Guo, Zhengrui and Wang, Jinzhuo},
+  journal={arXiv preprint arXiv:2502.10425},
+  year={2025}
+}

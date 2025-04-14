@@ -1,0 +1,6 @@
+@article{lee2024intriguing,
+  title={Intriguing Properties of Large Language and Vision Models},
+  author={Lee, Young-Jun and Ko, Byungsoo and Kim, Han-Gyu and Hwang, Yechan and Choi, Ho-Jin},
+  journal={arXiv preprint arXiv:2410.04751},
+  year={2024}
+}

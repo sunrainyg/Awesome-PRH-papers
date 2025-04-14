@@ -1,0 +1,6 @@
+@article{zhou2024linguistic,
+  title={Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models},
+  author={Zhou, Xinyu and Chen, Delong and Cahyawijaya, Samuel and Duan, Xufeng and Cai, Zhenguang G},
+  journal={arXiv preprint arXiv:2409.12435},
+  year={2024}
+}

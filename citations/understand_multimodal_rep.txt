@@ -1,0 +1,9 @@
+@misc{tjandrasuwita2025understandingemergencemultimodalrepresentation,
+      title={Understanding the Emergence of Multimodal Representation Alignment}, 
+      author={Megan Tjandrasuwita and Chanakya Ekbote and Liu Ziyin and Paul Pu Liang},
+      year={2025},
+      eprint={2502.16282},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.16282}, 
+}
