@@ -25,8 +25,10 @@ Arxiv 2025 | [github](https://github.com) | [bibtex](citations/VLM-alignment-and
 
 ## Papers
 
+*Note: * indicates equal contribution.*
+
 **[The Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987)**  
-*Minyoung Huh, Brian Cheung, Tongzhou Wang, Phillip Isola*  
+*Minyoung Huh&#42;, Brian Cheung&#42;, Tongzhou Wang&#42;, Phillip Isola&#42;*  
 ICML 2024 (Position Paper, Oral) | [github](https://github.com/minyoungg/platonic-rep) | [bibtex](citations/prh.txt)
 
 <details open>
