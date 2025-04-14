@@ -32,8 +32,8 @@ README entry:
 **[The Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987)**  
 *Minyoung Huh, Brian Cheung, Tongzhou Wang, Phillip Isola*  
 ICML 2024 (Position Paper, Oral) | [github](https://github.com/minyoungg/platonic-rep) | [bibtex](citations/prh.txt)
+
+- - - -
 ```
 
-Note: Make sure to maintain the consistent formatting with other entries. 
-
-Need help? [Open an issue](https://github.com/sunrainyg/awesome-PRH/issues/new)
+Need help? [Open an issue](https://github.com/sunrainyg/awesome-PRH/issues/)

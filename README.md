@@ -36,31 +36,29 @@ ICML 2024 (Position Paper, Oral) | [github](https://github.com/minyoungg/platoni
 *Sihyun Yu, Sangkyung Kwak, Huiwon Jang, Jongheon Jeong, Jonathan Huang, Jinwoo Shin, Saining Xie*  
 ICLR 2025 (Oral) | [github](https://github.com/sihyun-yu/REPA) | [bibtex](citations/repa.txt)
 
----
+- - - -
 
 **[Neuron Platonic Intrinsic Representation From Dynamics Using Contrastive Learning](https://arxiv.org/abs/2502.10425)**  
 *Wei Wu, Can Liao, Zizhen Deng, Zhengrui Guo, Jinzhuo Wang*  
 ICLR 2025 | [github](https://github.com/ww20hust/NeurPIR) | [bibtex](citations/NeurPIR.txt)
 
----
+- - - -
 
 **[It's a (Blind) Match! Towards Vision-Language Correspondence without Parallel Data](https://www.arxiv.org/abs/2503.24129)**  
 *Dominik Schnaus, Nikita Araslanov, Daniel Cremers*  
 CVPR 2025 | [github](https://github.com/dominik-schnaus/itsamatch) | [bibtex](citations/blend_match.txt)
 
----
+- - - -
 
 **[Shared Global and Local Geometry of Language Model Embeddings](https://arxiv.org/abs/2503.21073)**  
 *Andrew Lee, Melanie Weber, Fernanda Viégas, Martin Wattenberg*  
 Arxiv 2025 | [github](https://github.com/dominik-schnaus/itsamatch) | [bibtex](citations/share_global_local.txt)
 
----
+- - - -
 
 **[Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models](https://arxiv.org/abs/2409.12435)**  
 *Xinyu Zhou, Delong Chen, Samuel Cahyawijaya, Xufeng Duan, Zhenguang G. Cai*  
 COLING 2025 | [github](https://github.com/ChenDelong1999/Linguistic-Similarity) | [bibtex](citations/Linguistic-Similarity.txt)
-
----
 
 </details>
 
@@ -89,7 +87,7 @@ bioRxiv 2024 | [bibtex](citations/rep_bio_ai.txt)
 *Megan Tjandrasuwita, Chanakya Ekbote, Liu Ziyin, Paul Pu Liang*  
 ICLR Re-Align Workshop 2025 | [github](https://github.com/MeganTj/multimodal_alignment) | [bibtex](citations/understand_multimodal_rep.txt)
 
----
+- - - -
 
 **[Intriguing Properties of Large Language and Vision Models](https://arxiv.org/abs/2410.04751)**  
 *Young-Jun Lee, Byungsoo Ko, Han-Gyu Kim, Yechan Hwang, Ho-Jin Choi*  
