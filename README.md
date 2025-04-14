@@ -19,113 +19,89 @@ We welcome contributions that enhance and expand this collection. Please see our
 
 ## Survey
 
-<table>
-  <tr>
-    <td><strong><a href="https://arxiv.org/abs/2501.01346">Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability</a></strong><br/>
-    <em>Dong Shu, Haiyan Zhao, Jingyu Hu, Weiru Liu, Ali Payani, Lu Cheng, Mengnan Du</em><br/>
-    Arxiv 2025 | <a href="https://github.com">github</a> | <a href="citations/VLM-alignment-and-misalignment.txt">bibtex</a></td>
-  </tr>
-</table>
+**[Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability](https://arxiv.org/abs/2501.01346)**  
+*Dong Shu, Haiyan Zhao, Jingyu Hu, Weiru Liu, Ali Payani, Lu Cheng, Mengnan Du*  
+Arxiv 2025 | [github](https://github.com) | [bibtex](citations/VLM-alignment-and-misalignment.txt)
 
 ## Papers
 
-<table>
-  <tr>
-    <td><strong><a href="https://arxiv.org/abs/2405.07987">The Platonic Representation Hypothesis</a></strong><br/>
-    <em>Minyoung Huh, Brian Cheung, Tongzhou Wang, Phillip Isola</em><br/>
-    ICML 2024 (Position Paper, Oral) | <a href="https://github.com/minyoungg/platonic-rep">github</a> | <a href="citations/prh.txt">bibtex</a></td>
-  </tr>
-</table>
+**[The Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987)**  
+*Minyoung Huh, Brian Cheung, Tongzhou Wang, Phillip Isola*  
+ICML 2024 (Position Paper, Oral) | [github](https://github.com/minyoungg/platonic-rep) | [bibtex](citations/prh.txt)
 
 <details open>
 <summary><strong>Empirical Evidence Supporting PRH</strong></summary>
 
-<table>
-  <tr>
-    <td><strong><a href="https://arxiv.org/abs/2410.06940">Representation Alignment for Generation</a></strong><br/>
-    <em>Sihyun Yu, Sangkyung Kwak, Huiwon Jang, Jongheon Jeong, Jonathan Huang, Jinwoo Shin, Saining Xie</em><br/>
-    ICLR 2025 (Oral) | <a href="https://github.com/sihyun-yu/REPA">github</a> | <a href="citations/repa.txt">bibtex</a></td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://arxiv.org/abs/2502.10425">Neuron Platonic Intrinsic Representation From Dynamics Using Contrastive Learning</a></strong><br/>
-    <em>Wei Wu, Can Liao, Zizhen Deng, Zhengrui Guo, Jinzhuo Wang</em><br/>
-    ICLR 2025 | <a href="https://github.com/ww20hust/NeurPIR">github</a> | <a href="citations/NeurPIR.txt">bibtex</a></td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://www.arxiv.org/abs/2503.24129">It's a (Blind) Match! Towards Vision-Language Correspondence without Parallel Data</a></strong><br/>
-    <em>Dominik Schnaus, Nikita Araslanov, Daniel Cremers</em><br/>
-    CVPR 2025 | <a href="https://github.com/dominik-schnaus/itsamatch">github</a> | <a href="citations/blend_match.txt">bibtex</a></td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://arxiv.org/abs/2503.21073">Shared Global and Local Geometry of Language Model Embeddings</a></strong><br/>
-    <em>Andrew Lee, Melanie Weber, Fernanda Viégas, Martin Wattenberg</em><br/>
-    Arxiv 2025 | <a href="https://github.com/dominik-schnaus/itsamatch">github</a> | <a href="citations/share_global_local.txt">bibtex</a></td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://arxiv.org/abs/2409.12435">Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models</a></strong><br/>
-    <em>Xinyu Zhou, Delong Chen, Samuel Cahyawijaya, Xufeng Duan, Zhenguang G. Cai</em><br/>
-    COLING 2025 | <a href="https://github.com/ChenDelong1999/Linguistic-Similarity">github</a> | <a href="citations/Linguistic-Similarity.txt">bibtex</a></td>
-  </tr>
-</table>
+**[Representation Alignment for Generation](https://arxiv.org/abs/2410.06940)**  
+*Sihyun Yu, Sangkyung Kwak, Huiwon Jang, Jongheon Jeong, Jonathan Huang, Jinwoo Shin, Saining Xie*  
+ICLR 2025 (Oral) | [github](https://github.com/sihyun-yu/REPA) | [bibtex](citations/repa.txt)
+
+---
+
+**[Neuron Platonic Intrinsic Representation From Dynamics Using Contrastive Learning](https://arxiv.org/abs/2502.10425)**  
+*Wei Wu, Can Liao, Zizhen Deng, Zhengrui Guo, Jinzhuo Wang*  
+ICLR 2025 | [github](https://github.com/ww20hust/NeurPIR) | [bibtex](citations/NeurPIR.txt)
+
+---
+
+**[It's a (Blind) Match! Towards Vision-Language Correspondence without Parallel Data](https://www.arxiv.org/abs/2503.24129)**  
+*Dominik Schnaus, Nikita Araslanov, Daniel Cremers*  
+CVPR 2025 | [github](https://github.com/dominik-schnaus/itsamatch) | [bibtex](citations/blend_match.txt)
+
+---
+
+**[Shared Global and Local Geometry of Language Model Embeddings](https://arxiv.org/abs/2503.21073)**  
+*Andrew Lee, Melanie Weber, Fernanda Viégas, Martin Wattenberg*  
+Arxiv 2025 | [github](https://github.com/dominik-schnaus/itsamatch) | [bibtex](citations/share_global_local.txt)
+
+---
+
+**[Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models](https://arxiv.org/abs/2409.12435)**  
+*Xinyu Zhou, Delong Chen, Samuel Cahyawijaya, Xufeng Duan, Zhenguang G. Cai*  
+COLING 2025 | [github](https://github.com/ChenDelong1999/Linguistic-Similarity) | [bibtex](citations/Linguistic-Similarity.txt)
+
+---
 
 </details>
 
 <details open>
 <summary><strong>Theoretical Foundations for PRH</strong></summary>
 
-<table>
-  <tr>
-    <td><strong><a href="https://arxiv.org/abs/2502.14047">Towards a Learning Theory of Representation Alignment</a></strong><br/>
-    <em>Francesco Insulla, Shuo Huang, Lorenzo Rosasco</em><br/>
-    ICLR 2025 | <a href="citations/learning_theory_ra.txt">bibtex</a></td>
-  </tr>
-
-
-</table>
+**[Towards a Learning Theory of Representation Alignment](https://arxiv.org/abs/2502.14047)**  
+*Francesco Insulla, Shuo Huang, Lorenzo Rosasco*  
+ICLR 2025 | [bibtex](citations/learning_theory_ra.txt)
 
 </details>
 
 <details open>
 <summary><strong>Extension to Neuroscience and Biological Systems</strong></summary>
 
-<table>
-  <tr>
-    <td><strong><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11703180/">Universality of Representation in Biological and Artificial Neural Networks</a></strong><br/>
-    <em>E Hosseini, C Casto, N Zaslavsky, C Conwell, M Richardson, E Fedorenko</em><br/>
-    bioRxiv 2024 | <a href="citations/rep_bio_ai.txt">bibtex</a></td>
-  </tr>
-</table>
+**[Universality of Representation in Biological and Artificial Neural Networks](https://pmc.ncbi.nlm.nih.gov/articles/PMC11703180/)**  
+*E Hosseini, C Casto, N Zaslavsky, C Conwell, M Richardson, E Fedorenko*  
+bioRxiv 2024 | [bibtex](citations/rep_bio_ai.txt)
 
 </details>
 
 <details open>
 <summary><strong>Analysis and Limitations of PRH</strong></summary>
 
-<table>
-  <tr>
-    <td><strong><a href="https://arxiv.org/abs/2502.16282/">Understanding the emergence of multimodal representation alignment</a></strong><br/>
-    <em>Megan Tjandrasuwita, Chanakya Ekbote, Liu Ziyin, Paul Pu Liang</em><br/>
-    ICLR Re-Align Workshop 2025 | <a href="https://github.com/MeganTj/multimodal_alignment">github</a> | <a href="citations/understand_multimodal_rep.txt">bibtex</a></td>
-  </tr>
+**[Understanding the emergence of multimodal representation alignment](https://arxiv.org/abs/2502.16282/)**  
+*Megan Tjandrasuwita, Chanakya Ekbote, Liu Ziyin, Paul Pu Liang*  
+ICLR Re-Align Workshop 2025 | [github](https://github.com/MeganTj/multimodal_alignment) | [bibtex](citations/understand_multimodal_rep.txt)
 
-  <tr>
-    <td><strong><a href="https://arxiv.org/abs/2410.04751">Intriguing Properties of Large Language and Vision Models</a></strong><br/>
-    <em>Young-Jun Lee, Byungsoo Ko, Han-Gyu Kim, Yechan Hwang, Ho-Jin Choi</em><br/>
-    Arxiv 2024 | <a href="https://github.com/passing2961/IP-LLVM">github</a> | <a href="citations/IP-LLVM.txt">bibtex</a></td>
-  </tr>
-</table>
+---
+
+**[Intriguing Properties of Large Language and Vision Models](https://arxiv.org/abs/2410.04751)**  
+*Young-Jun Lee, Byungsoo Ko, Han-Gyu Kim, Yechan Hwang, Ho-Jin Choi*  
+Arxiv 2024 | [github](https://github.com/passing2961/IP-LLVM) | [bibtex](citations/IP-LLVM.txt)
 
 </details>
 
 ## Talks
 
-<table>
-  <tr>
-    <td><strong><a href="https://www.youtube.com/watch?v=1_xH2mUFpZw">The Platonic Representation Hypothesis</a></strong><br/>
-    <em>Phillip Isola, Simons Institute, June 2024.</em><br/>
-    <a href="https://www.dropbox.com/scl/fi/p2l67t6kl9xzsome2pt05/platonic_rep_simons2024.pdf?rlkey=y80epgc4bofyifmu46hgq5yvi&e=1&dl=0">slides</a></td>
-  </tr>
-</table>
+**[The Platonic Representation Hypothesis](https://www.youtube.com/watch?v=1_xH2mUFpZw)**  
+*Phillip Isola, Simons Institute, June 2024.*  
+[slides](https://www.dropbox.com/scl/fi/p2l67t6kl9xzsome2pt05/platonic_rep_simons2024.pdf?rlkey=y80epgc4bofyifmu46hgq5yvi&e=1&dl=0)
 
 ## License
 MIT

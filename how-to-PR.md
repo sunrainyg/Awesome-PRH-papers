@@ -28,14 +28,12 @@ BibTeX (`citations/prh.txt`):
 Add your entry to the appropriate section:
 
 README entry:
-```html
-<tr>
-  <td><strong><a href="https://arxiv.org/abs/2405.07987">The Platonic Representation Hypothesis</a></strong><br/>
-  <em>Minyoung Huh, Brian Cheung, Tongzhou Wang, Phillip Isola</em><br/>
-  <span class="venue-tag icml">ICML 2024</span> <span class="venue-tag oral">Oral</span> | 
-  <a href="https://github.com/minyoungg/platonic-rep">github</a> | 
-  <a href="citations/prh.txt">bibtex</a></td>
-</tr>
+```markdown
+**[The Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987)**  
+*Minyoung Huh, Brian Cheung, Tongzhou Wang, Phillip Isola*  
+ICML 2024 (Position Paper, Oral) | [github](https://github.com/minyoungg/platonic-rep) | [bibtex](citations/prh.txt)
 ```
+
+Note: Make sure to maintain the consistent formatting with other entries. 
 
 Need help? [Open an issue](https://github.com/sunrainyg/awesome-PRH/issues/new)
