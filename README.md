@@ -34,7 +34,7 @@ ICML 2024 (Position Paper, Oral) | [github](https://github.com/minyoungg/platoni
 <details open>
 <summary><strong>Empirical Evidence Supporting PRH</strong></summary>
 
-**[Representation Alignment for Generation](https://arxiv.org/abs/2410.06940)**  
+**[Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think](https://arxiv.org/abs/2410.06940)**  
 *Sihyun Yu, Sangkyung Kwak, Huiwon Jang, Jongheon Jeong, Jonathan Huang, Jinwoo Shin, Saining Xie*  
 ICLR 2025 (Oral) | [github](https://github.com/sihyun-yu/REPA) | [bibtex](citations/repa.txt)
 
